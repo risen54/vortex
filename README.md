@@ -10,7 +10,7 @@ Whenever I start new project, I do the same thing...
 So I made this short project it just does the things mentioned above.
 To use this as a cli app add the following line to code in your .bashrc, .zshrc or anything:
 
-`alias vortex="python3 $HOME/vortex.py"
+`alias vortex="python3 $HOME/vortex.py"`
 
 (note the path above, change it to wherever your file is)
 
